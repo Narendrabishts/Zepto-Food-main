@@ -494,7 +494,7 @@ This project demonstrates practical full-stack development skills including:
 
 ## 👨‍💻 Author
 
-### Atul Kumar
+### Narendra Bisht
 
 **MERN / Full Stack Developer**
 
